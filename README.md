@@ -87,7 +87,7 @@ graph TD
 ### Setup Steps
 1.  **Clone or Open project directory**:
     ```bash
-    cd d:/Codings/AntiGravity/Capstone
+    cd 'path_to_clone'
     ```
 2.  **Install dependencies**:
     ```bash
